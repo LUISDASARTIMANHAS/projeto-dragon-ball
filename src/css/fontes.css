@@ -1,4 +1,14 @@
-@font-face {
-    font-family: 'Yugioh';
-    src: url("../fonts/fonte-yu-gi-oh.otf");
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&family=Secular+One&display=swap');
+
+.secular-one-regular {
+    font-family: "Secular One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.rubik {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }

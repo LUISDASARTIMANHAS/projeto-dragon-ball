@@ -1,65 +1,22 @@
 [
     {
-        "nome": "Cosmos Sentinel, o Guardião Galáctico",
-        "fundo": 1,
-        "estrela": 5,
-        "img": "cosmos-sentinel.png",
-        "descricao": "Este imponente guerreiro cibernético é a personificação da harmonia entre tecnologia avançada e energia cósmica. Empunhando o Cetro Estelar, Cosmos Sentinel pode manipular o espaço-tempo, anulando ataques e fortalecendo aliados.",
-        "ATK": 2800,
-        "DEF": 2500
+        "nome": "Cyberstorm",
+        "descricao": "Kael Takeda, conhecido no submundo digital como 'Cyberstorm', é um programador prodígio especializado em segurança cibernética e inteligência artificial. Com um intelecto afiado e reflexos rápidos, ele domina linguagens de programação como se fossem extensões de sua própria mente."
     },
     {
-        "nome": "Nebuladragon, o Ser das Estrelas Eternas",
-        "fundo": 2,
-        "estrela": 7,
-        "img": "nebuladragon.png",
-        "descricao": "Uma criatura mítica nascida da fusão de nebulosas e energia estelar. Com suas escamas cristalinas, Nebuladragon canaliza o poder do cosmos, devastando seus inimigos com rajadas de energia pura. Diz-se que ele aparece apenas em momentos de caos universal, como arauto de renovação e equilíbrio celestial.",
-        "ATK": 3200,
-        "DEF": 2000
+        "nome": "CodePixie",
+        "descricao": "Lía Nakamura, conhecida como 'CodePixie', é uma programadora genial que domina o desenvolvimento de algoritmos e inteligência artificial. Com um talento nato para decifrar padrões, ela cria sistemas inovadores e protege dados sensíveis de ameaças digitais."
     },
     {
-        "nome": "Cyberblade Paladin, o Cavaleiro Digital",
-        "fundo": 3,
-        "estrela": 3,
-        "img": "cyberblade-paladin.png",
-        "descricao": "Armado com a lendária Cyberblade, este cavaleiro cibernético é um protetor das dimensões digitais. Com reflexos aprimorados e um senso de justiça inabalável, ele combate invasores que ameaçam o equilíbrio dos mundos virtuais e reais. Sua espada emana um brilho tecnológico que pode cortar tanto matéria física quanto código digital.",
-        "ATK": 2600,
-        "DEF": 2300
+        "nome": "hexblade",
+        "descricao": "Ryo Tanaka, conhecido como 'HexBlade', é um hacker habilidoso que opera nas sombras do ciberespaço. Mestre em engenharia reversa e criptografia, ele combina força bruta e inteligência afiada para quebrar firewalls impenetráveis."
     },
     {
-        "nome": "Mechadragon X, o Destruidor Biomecânico",
-        "fundo": 4,
-        "estrela": 7,
-        "img": "mechadragon.png",
-        "descricao": "Uma fusão mortal de biologia dracônica e engenharia cibernética, Mechadragon X foi criado para ser uma arma definitiva. Com suas asas energizadas e múltiplos núcleos de poder, ele é capaz de disparar rajadas devastadoras e neutralizar até os mais fortes adversários. Sua presença no campo de batalha é um presságio de destruição iminente, conhecido como o 'Fim das Eras'",
-        "ATK": 3500,
-        "DEF": 3000
+        "nome": "NeonPulse",
+        "descricao": "NeonPulse Ayla Vega, conhecida como 'NeonPulse', é uma prodígio da programação espacial. Criada em uma estação orbital, ela domina linguagens de código como se fossem sua segunda língua. Especialista em inteligência artificial e segurança cibernética."
     },
     {
-        "nome": "Archmage Stellarion, o Guardião das Estrelas",
-        "fundo": 5,
-        "estrela": 3,
-        "img": "archmage.png",
-        "descricao": "Um mago enigmático que manipula as forças do cosmos para proteger o equilíbrio universal. Archmage Stellarion utiliza seu Cetro Cósmico para canalizar feitiços de luz estelar, podendo banir inimigos para dimensões distantes ou fortalecer aliados com energia astral. Sua presença no campo de batalha é envolta em mistério e poder, sendo reverenciado como o 'Sábio do Infinito'",
-        "ATK": 2400,
-        "DEF": 2600
-    },
-    {
-        "nome": "Aegis Knight, o Guardião do Firmamento",
-        "fundo": 6,
-        "estrela": 4,
-        "img": "aegis-knight.png",
-        "descricao": "Vestindo uma armadura forjada com fragmentos de estrelas, Aegis Knight é o defensor final das dimensões. Empunhando a Espada Astral e o Escudo Celestial, ele possui o poder de anular ataques inimigos e contra-atacar com golpes de pura energia cósmica. Seu juramento é proteger o equilíbrio entre luz e trevas, sendo lembrado como a 'Fortaleza do Cosmos'",
-        "ATK": 3000,
-        "DEF": 2800
-    },
-    {
-        "nome": "Stormbringer Dragon, o Arauto das Tempestades",
-        "fundo": 7,
-        "estrela": 5,
-        "img": "stormbringer.png",
-        "descricao": "Este poderoso dragão domina os céus, invocando trovões e relâmpagos com o bater de suas asas. Stormbringer Dragon é a personificação da fúria da natureza, destruindo tudo em seu caminho com rajadas elétricas e ventos cortantes. Diz-se que sua aparição é o prelúdio de uma tempestade sem fim, trazendo destruição e renovação aos campos de batalha.",
-        "ATK": 2900,
-        "DEF": 2100
+        "nome": "codebreaker",
+        "descricao": "No coração de uma estação espacial abandonada, Orion Vex, um ex-engenheiro cibernético, busca desvendar um código perdido há séculos. Dizem que esse código guarda o segredo para uma tecnologia ancestral capaz de redefinir a inteligência artificial."
     }
 ]

@@ -112,9 +112,9 @@ window.addEventListener("load", () => {
       var img = document.createElement("img");
 
       // configuracoes do botao
-      button.setAttribute("class", `botao ${nome}`);
+      button.setAttribute("class", `botao ${nome.toLowerCase()}`);
       if (i == 0) {
-        button.setAttribute("class", `botao ${nome} selecionado`);
+        button.setAttribute("class", `botao ${nome.toLowerCase()} selecionado`);
       }
 
       // configuracoes da imagem do botão

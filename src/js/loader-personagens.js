@@ -1,6 +1,6 @@
 window.addEventListener("load", () => {
   try {
-    const url = "/src/data/lista-personagens.json";
+    const url = "./src/data/lista-personagens.json";
     const options = {
       method: "GET",
       mode: "cors",
@@ -49,8 +49,8 @@ window.addEventListener("load", () => {
     }
 
     function renderPersonagem(i, nome, descricao, divPersonagens) {
-      const srcSet = `./src/imgs/bg-${nome}.png`;
-      const src = `./src/imgs/bg-${nome}-mobile.png`;
+      const srcSet = `./src/imgs/bg-${nome.toLowerCase()}.png`;
+      const src = `./src/imgs/bg-${nome.toLowerCase()}-mobile.png`;
       var divPersonagem = document.createElement("div");
       var picture = document.createElement("picture");
       var source = document.createElement("source");
@@ -106,7 +106,7 @@ window.addEventListener("load", () => {
     }
 
     function renderBotoesPersonagem(nome, i, UlpersonagensBotoes) {
-      const src = `./src/imgs/icone-${nome}.png`;
+      const src = `./src/imgs/icone-${nome.toLowerCase()}.png`;
       var liBotoes = document.createElement("li");
       var button = document.createElement("button");
       var img = document.createElement("img");

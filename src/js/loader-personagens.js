@@ -46,6 +46,7 @@ window.addEventListener("load", () => {
         renderPersonagem(i, nome, descricao, divPersonagens);
         renderBotoesPersonagem(nome, i, UlpersonagensBotoes);
       }
+      window.onloadedPersonagensEBotoes();
     }
 
     function renderPersonagem(i, nome, descricao, divPersonagens) {
@@ -129,7 +130,12 @@ window.addEventListener("load", () => {
 
       // juntando os botoes em uma lista ul de botoes
       UlpersonagensBotoes.appendChild(liBotoes);
+      console.log(
+        `%c [SISTEMA]: Carregando Botão: ${nome}`,
+        "color: #00ccff"
+      );
     }
+
   } catch (error) {
     alert("ERRO FATAL! REPORTE AO ADMINISTRADOR DO SITE. \n Error:" + error);
   }

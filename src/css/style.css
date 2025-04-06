@@ -16,6 +16,10 @@ main::after {
 main .personagem {
   display: none;
   height: 100vh;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 
 main .personagem.selecionado {
@@ -85,6 +89,10 @@ main .personagem .imagem {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 
 .botoes .botao img {
